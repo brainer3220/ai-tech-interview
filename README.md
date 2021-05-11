@@ -28,7 +28,7 @@
 
 ### [📈 Statistics/Math](./answers/statistics-math.md)
 
-- 고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?
+- 고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?\
 - 샘플링(Sampling)과 리샘플링(Resampling)에 대해 설명해주세요. 리샘플링은 무슨 장점이 있을까요?
 - 확률 모형과 확률 변수는 무엇일까요?
 - 누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요.
@@ -61,14 +61,20 @@
 ### [🤖 Machine Learning](./answers/machine-learning.md)
 
 - 알고 있는 metric에 대해 설명해주세요. (ex. RMSE, MAE, recall, precision ...)
+    - [MAE, MSE, RMAE, RMSE]
 - 정규화를 왜 해야할까요? 정규화의 방법은 무엇이 있나요?
+    - [머신러닝은 정규분포를 그릴때 가장 좋은 성능을 보이기 때문입니다.]
 - Local Minima와 Global Minima에 대해 설명해주세요.
+    - [Local Minima는 특정area에서 최소 error이고, Global은 모든 area에서 minimam error이다.]
 - 차원의 저주에 대해 설명해주세요.
+    - [고차원에서 보이지 않던 feature가 저차원에서는 보이는 경우를 이야기한다.]
 - dimension reduction기법으로 보통 어떤 것들이 있나요?
+    - [pca, tsne]
 - PCA는 차원 축소 기법이면서, 데이터 압축 기법이기도 하고, 노이즈 제거기법이기도 합니다. 왜 그런지 설명해주실 수 있나요?
 - LSA, LDA, SVD 등의 약자들이 어떤 뜻이고 서로 어떤 관계를 가지는지 설명할 수 있나요?
 - Markov Chain을 고등학생에게 설명하려면 어떤 방식이 제일 좋을까요?
 - 텍스트 더미에서 주제를 추출해야 합니다. 어떤 방식으로 접근해 나가시겠나요?
+    - [word cloud]
 - SVM은 왜 반대로 차원을 확장시키는 방식으로 동작할까요? SVM은 왜 좋을까요?
 - 다른 좋은 머신 러닝 대비, 오래된 기법인 나이브 베이즈(naive bayes)의 장점을 옹호해보세요.
 - 회귀 / 분류시 알맞은 metric은 무엇일까?
