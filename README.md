@@ -103,10 +103,15 @@
 ### [🧠 Deep Learning](./answers/deep-learning.md)
 
 - 딥러닝은 무엇인가요? 딥러닝과 머신러닝의 차이는?
+    - [딥러닝은 인공신경망의 일종으로, 통계에 기반을 두는 일반적인 머신러닝의 부분집합]
 - Cost Function과 Activation Function은 무엇인가요?
+-  Cost Function이란, 손실 즉, 오차를 계산 하는 함수이고, Activation Function은 다음 layey(s)을 활성화 할건지에 관한 함수
 - Tensorflow, PyTorch 특징과 차이가 뭘까요?
+- Tensorflow는 현업에서, Pytorch는 연구진이 자주 쓴다.
 - Data Normalization은 무엇이고 왜 필요한가요?
+    - [한쪽의 data가 지나치게 많은 경우 데이터의 크기를 맞춰주는 작업, 많은 데이터만 옳다고 판단하기 때문.]
 - 알고있는 Activation Function에 대해 알려주세요. (Sigmoid, ReLU, LeakyReLU, Tanh 등)
+    - [Sigmoid, ReLU, LeakyReLU, Tanh, AcrhTanh등]
 - 오버피팅일 경우 어떻게 대처해야 할까요?
 - 하이퍼 파라미터는 무엇인가요?
 - Weight Initialization 방법에 대해 말해주세요. 그리고 무엇을 많이 사용하나요?
