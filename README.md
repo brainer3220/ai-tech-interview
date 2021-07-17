@@ -1,5 +1,11 @@
 <div align="center"> 
     <img src="logo.png" alt="logo"/>
+    <br/>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fai-tech-interview&count_bg=%23B8B8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <img src="https://img.shields.io/github/forks/boostcamp-ai-tech-4/ai-tech-interview" alt="forks"/>
+    <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/ai-tech-interview?color=yellow" alt="stars"/>
+    <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/ai-tech-interview?color=red" alt="pr"/>
+    <img src="https://img.shields.io/github/license/boostcamp-ai-tech-4/ai-tech-interview" alt="license"/>
 </div>
 
 ## [👉 Discussions](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/discussions)
@@ -329,6 +335,31 @@
 <br/>
 
 ### [🔻 Algorithm](./answers/8-algorithm.md)
+
+- 시간, 공간 복잡도
+- Sort Algorithm
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Heap Sort
+  - Quick Sort
+  - Counting Sort
+  - Radix Sort
+- Divide and Conquer
+- Dynamic Programming
+- Greedy Algorithm
+- Graph
+  - Graph Traversal: BFS, DFS
+  - Shortest Path
+    - Dijkstra
+    - Floyd-Warshall
+    - Bellman-Ford
+  - Minimum Spanning Tree
+    - Prim
+    - Kruskal
+  - Union-find
+  - Topological sort
 
 <a href='#table-of-contents'><strong><small>목차로 돌아가기</small></strong></a>
 

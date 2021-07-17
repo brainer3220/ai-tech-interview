@@ -44,7 +44,7 @@
 
 수많은 벡터 x 중 어떤 벡터들은 A 에 의해 선형 변환되었을 때에도 원래 벡터와 평행한 경우가 있다. **이렇듯 Ax 가 원래 x 에 상수 <!-- $\lambda$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Clambda"> (람다) 를 곱한 것과 같을 때의 x 를 고유 벡터, 람다를 고유값이라 한다.**
 
-공식
+> 공식
 
 <!-- $$
 Ax = \lambda x
@@ -125,7 +125,7 @@ P(X=1)와 같은 식으로 표현하고, 이는 "주사위를 굴렸을 때, 1�
 다음과 같은 함수들이 확률모형에 포함될 수 있다. (자세한 내용은 [확률통계 기초용어 - EG 공간](https://kongdols-room.tistory.com/131) 참고)
 
 - 확률질량함수(PMF, Probability Mass Function) - 이산형
-- 확률밀도함후(PDF, Probability Density Function) - 연속형
+- 확률밀도함수(PDF, Probability Density Function) - 연속형
 - 누적분포함수(CDF, Cumulative Distribution Function)
 
 ✔︎ 추가적으로 **확률 통계의 기초 용어**를 정리하면 다음과 같다. (주사위 굴리기 예제 사용)
