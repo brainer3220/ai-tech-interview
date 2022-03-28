@@ -12,4 +12,3 @@
 - [Operating System](answers/6-operating-system.md)
 - [Data Structure](answers/7-data-structure.md)
 - [Algorithm](answers/8-algorithm.md)
-
