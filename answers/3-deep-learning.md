@@ -360,7 +360,7 @@ $$
 W \sim U(- \sqrt{\frac{6}{n_{in} + n_{out}}}, + \sqrt{\frac{6}{n_{in} + n_{out}}})
 $$
 
-sigmoid 나 tanh 함수와는 좋은 결과를 보여주지만 ReLU 함수와 사용할 경우 0에 수렴하는 문제가 발생한다.  
+sigmoid 나 tanh 함수와는 좋은 결과를 보여주지만 ReLU 함수와 사용할 경우 0에 수렴하는 문제가 발생한다.
 따라서 `sigmoid` 나 `tanh` 함수와 주로 많이 사용한다.
 
 > **He Initialization**
@@ -686,7 +686,7 @@ Local minima 문제를 피하는 방법으로는 **Momentum, Nesterov Accelerate
 
 ![](./img/3-deep-learning/adadelta.png)
 
-(**Momentum**의 더 자세한 내용은 [모멘텀의 수식을 적어 본다면?](#17-3) 참고)  
+(**Momentum**의 더 자세한 내용은 [모멘텀의 수식을 적어 본다면?](#17-3) 참고)
 (**SGD, RMSprop, Adam**에 대한 설명은 [SGD, RMSprop, Adam에 대해서 아는대로 설명한다면?](#17) 참고)
 
 #### References

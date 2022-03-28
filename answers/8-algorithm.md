@@ -900,7 +900,7 @@ Kruskal 알고리즘의 시간 복잡도는 $$O(e \log_2 e)$$이다.
 
 구현 방법은 [위상 정렬 - 이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test/blob/master/10/6.py) 구현 코드를 참고!
 
-> **💡 진입 차수(degree)**  
+> **💡 진입 차수(degree)**
 > 노드의 관점에서 들어오는 간선의 개수를 진입 차수(degree)라고 한다.
 
 #### References
