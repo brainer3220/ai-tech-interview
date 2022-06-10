@@ -1,16 +1,28 @@
-<div align="center"> 
-    <img src="logo.png" alt="logo"/>
-    <br/>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fai-tech-interview&count_bg=%23B8B8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    <img src="https://img.shields.io/github/forks/boostcamp-ai-tech-4/ai-tech-interview" alt="forks"/>
-    <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/ai-tech-interview?color=yellow" alt="stars"/>
-    <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/ai-tech-interview?color=red" alt="pr"/>
-    <img src="https://img.shields.io/github/license/boostcamp-ai-tech-4/ai-tech-interview" alt="license"/>
+![](logo.png)
+
+<div align="center">     
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fai-tech-interview&count_bg=%23B8B8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://img.shields.io/github/forks/boostcamp-ai-tech-4/ai-tech-interview" alt="forks"/>
+  <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/ai-tech-interview?color=yellow" alt="stars"/>
+  <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/ai-tech-interview?color=red" alt="pr"/>
+  <img src="https://img.shields.io/github/license/boostcamp-ai-tech-4/ai-tech-interview" alt="license"/>
 </div>
 
-## [👉 Discussions](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/discussions)
+## 공지
 
-스터디 방식, 스터디 기록, QnA는 모두 Discussions에서 작성됩니다!
+- 피드백은 이슈가 아닌 PR로만 받습니다. PR로 수정할 부분을 수정한 뒤 PR 보내주세요!
+- LaTeX는 `$$\lambda$$` 이런식으로 작성합니다.
+- 추후 README.md 수정 및 PR, 질문/커뮤니티 관련 가이드 올리겠습니다.
+
+## 바로가기
+
+### [👉 면접 레포 사이트](https://boostdevs.gitbook.io/ai-tech-interview/)
+
+### [👉 이전 버전은 backup 브랜치로](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/tree/backup)
+
+### [👉 피드백](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/pulls)
+
+### [👉 질문/커뮤니티](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/discussions/)
 
 ---
 
@@ -35,11 +47,11 @@
 
 ### [📈 Statistics/Math](./answers/1-statistics-math.md)
 
-- 고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?\
-- 샘플링(Sampling)과 리샘플링(Resampling)에 대해 설명해주세요. 리샘플링은 무슨 장점이 있을까요?
-- 확률 모형과 확률 변수는 무엇일까요?
-- 누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요.
-- 조건부 확률은 무엇일까요?
+- 고유값(eigen value)와 고유벡터(eigen vector)이 무엇이고 왜 중요한지 설명해주세요.
+- 샘플링(Sampling)과 리샘플링(Resampling)이 무엇이고 리샘플링의 장점을 말씀해주세요.
+- 확률 모형과 확률 변수는 무엇인가요?
+- 누적 분포 함수와 확률 밀도 함수는 무엇인가요? 수식과 함께 표현해주세요.
+- 조건부 확률은 무엇인가요?
 - 공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요.
 - 신뢰 구간의 정의는 무엇인가요?
 - p-value를 모르는 사람에게 설명한다면 어떻게 설명하실 건가요?
